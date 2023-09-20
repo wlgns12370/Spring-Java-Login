@@ -18,7 +18,7 @@
 ## 🚀 문제 및 조건
 - 스프링 부트와 시큐리티 그리고 JWT를 사용하여 Login BackEnd를 개발하는 것이다.
 - 기본적으로 Rest Ful 한 설계를 하고 Exception 처리까지 구현하여야 한다.
-- DDD를 적용하여 Domain을 분리하고 DB로 PostgreSQL을 사용한다.
+- DDD를 적용하여 Domain을 분리한다.
 
 <br><br>
 
