@@ -1,6 +1,3 @@
-![Logo](free-icon-research-and-development-8303003)
-![free-icon-research-and-development-8303003](https://github.com/wlgns12370/Spring-Java-Login-Study/assets/30788586/e079ff80-b37f-43af-ab1f-67ff7888f22d)
-
 ## ✉️ 스터디 참여
 [Keep._.hun](https://www.instagram.com/keep._.hun/)으로 DM을 보낸다.
 <br><br>
